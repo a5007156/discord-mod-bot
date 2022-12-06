@@ -1,8 +1,8 @@
 # discord-mod-bot
-**Simple discord bot**
+**Simple discord moderation bot**
 
 
-**$givemeaname**
+**```!mod ban|kick|mute|unmute <reason>```**
 
 ## HOW TO USE
     sudo apt install git
